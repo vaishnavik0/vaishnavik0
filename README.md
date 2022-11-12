@@ -31,4 +31,4 @@
 
 ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavik0&show_icons=true&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavik0&" alt="vaishnavik0" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vaishnavik0&theme=highcontrast)](https://git.io/streak-stats)
