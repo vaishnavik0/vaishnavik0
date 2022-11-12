@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kulkarni</h1>
 <h3 align="center">A Passionate Python Developer From India</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vaishnavi!;I'm+a+learning+developer...;I'm+a+CRAZY+Anime+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavik0&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavik0" /> </p>
 
