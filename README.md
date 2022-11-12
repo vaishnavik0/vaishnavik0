@@ -29,6 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?vaishnavik0=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavik0&theme=react&show_icons=true&theme=radical)
+![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavik0&theme=react&show_icons=true&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavik0&" alt="vaishnavik0" /></p>
