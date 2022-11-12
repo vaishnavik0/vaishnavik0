@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/_vai93" target="blank"><img src="https://img.shields.io/twitter/follow/_vai93?logo=twitter&style=for-the-badge" alt="_vai93" /></a> </p>
 
 ## About 📝:
-<p> An ambitious IT engineer, looking forward in the filed of Data Analysis. A constant,learner and Interested in developing projects that scale in different technologies, fields and to engage in anintellectually challenging environment. Preferred coding languages are Python and SQL. </p>
+<p align="justify"> An ambitious IT engineer, looking forward in the filed of Data Analysis. A constant,learner and Interested in developing projects that scale in different technologies, fields and to engage in anintellectually challenging environment. Preferred coding languages are Python and SQL. </p>
 
 - 🔭 I’m currently working on [Zoom Clone Using Python](https://github.com/vaishnavik0/Zoom_Clone)
 
